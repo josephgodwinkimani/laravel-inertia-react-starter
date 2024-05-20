@@ -5,6 +5,8 @@
 - TW Elements.
 - 
 
+![Demo](.github/screenshot.png)
+
 ## Installation
 
 ```
@@ -28,4 +30,4 @@ If you discover a security vulnerability within this repository open an issue. A
 
 ## License
 
-The Laravel framework, Laravel Breeze and this repository is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework, Laravel Breeze, TW Elements and this repository is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
