@@ -6,7 +6,7 @@ export default function Guest({ children }) {
         <div className="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
             <div>
                 <Link href="/">
-                    <ApplicationLogo className="w-20 h-20 fill-current text-gray-500" />
+                    <ApplicationLogo className="w-20 h-20 fill-current text-gray-500" /> <h3 className="uppercase text-xl text-center text-neutral-600 dark:text-neutral-200">TW Elements</h3>
                 </Link>
             </div>
 
